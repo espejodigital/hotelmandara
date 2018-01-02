@@ -1,0 +1,83 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hot.com" resolutions="1x" timestamp="1514853164666">
+  <folder name="css">
+    <file name="site_global.css" crc="375967351"/>
+    <file name="index.css" crc="4116406795" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="hotel-madara-sjl.jpg" crc="3766418831" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="descarga.jpg" crc="4187254228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="qh_grand_boras_spa1-crop-u1747.jpg" crc="3880858566" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1400000016484-crop-u1777.jpg" crc="179224241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="46835436.jpg" crc="4272903453" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="81556623.jpg" crc="3907047671" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hacienda_yanamarca-1.jpg" crc="50185999" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="valle-del-inca.jpg" crc="4121439204" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4683543660x45.jpg" crc="3811974444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8155662360x45.jpg" crc="3866164499" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hacienda_yanamarca-160x45.jpg" crc="3860649429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="valle-del-inca61x45.jpg" crc="312198649" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pinterest.png" crc="4214682508" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="442611654" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skype.png" crc="4267061425" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="205297762" seo="true" mt="1514852666001" redirect="true"/>
+</manifest>

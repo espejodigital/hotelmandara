@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://hot.com/index.html</loc>
+    <lastmod>2018-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://hot.com/images/descarga.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/qh_grand_boras_spa1-crop-u1747.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/1400000016484-crop-u1777.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/46835436.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/81556623.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/hacienda_yanamarca-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/valle-del-inca.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/4683543660x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/8155662360x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/hacienda_yanamarca-160x45.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://hot.com/images/valle-del-inca61x45.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
